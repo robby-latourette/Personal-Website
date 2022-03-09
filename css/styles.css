@@ -45,6 +45,11 @@ p.bio:first-letter{
     font-family: 'Gill Sans', 'Gill Sans MT', sans-serif;
 }
 
+div.contact_information{
+    border: 2px outset black;
+    text-align: left;
+}
+
 img.profile_picture{
     box-align: middle;
     border: 5px solid black;
